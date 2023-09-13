@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ASTConsultingAssignmentApp</string>
+      <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">(AIzaSyBJuEcYHTDCCEIZfaMIhO8z8QGjCiFlips)</string>
+</resources>
